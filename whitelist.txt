@@ -1,6 +1,6 @@
 # Whitelist start
-
-www.adblocking.com
+www.kqzyfj.com
+www.googleadservices.com
 choices.trustarc.com
 pinpoint.us-east-1.amazonaws.com
 aax-us-iad.amazon.com
