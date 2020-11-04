@@ -1,5 +1,6 @@
 # Whitelist start
 www.kqzyfj.com
+www.shareasale.com
 www.googleadservices.com
 choices.trustarc.com
 pinpoint.us-east-1.amazonaws.com
